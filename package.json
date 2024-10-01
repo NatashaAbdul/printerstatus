@@ -1,0 +1,23 @@
+{
+  "name": "printerstatus",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatashaAbdul/printerstatus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatashaAbdul/printerstatus/issues"
+  },
+  "homepage": "https://github.com/NatashaAbdul/printerstatus#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
